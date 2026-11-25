@@ -9,7 +9,7 @@ window.EW_CONFIG = {
 
   /* Lien de l'enregistrement du webinaire de M. Elmi (Réalisations).
      Tant qu'il est vide, le bouton affiche « Enregistrement bientôt disponible ». */
-  WEBINAR_REPLAY_URL: "https://drive.google.com/file/d/1Cm633IdOa63PW0LXHLGlBMqfm8WDuFqE/view?usp=sharing",
+  WEBINAR_REPLAY_URL: "https://drive.google.com/file/d/1Cm633IdOa63PW0LXHLGlBMqfm8WDuFgE/view?usp=sharing",
 
   /* Réseaux sociaux (laisser vide = lien de recherche « EvalWeb Solutions ») */
   FACEBOOK_URL: "https://www.facebook.com/share/1DkMq2QQer/",
