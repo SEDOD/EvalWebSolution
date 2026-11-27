@@ -2,13 +2,13 @@
    CONFIGURATION — à renseigner une seule fois (voir README.md)
    ============================================================ */
 window.EW_CONFIG = {
-  /* EmailJS (envoi réel du formulaire de contact) : https://www.emailjs.com */
-  EMAILJS_PUBLIC_KEY: "",   // ex. "AbCdEf123456"
-  EMAILJS_SERVICE_ID: "",   // ex. "service_xxxxxxx"
-  EMAILJS_TEMPLATE_ID: "",  // ex. "template_xxxxxxx"
+ 
+  EMAILJS_PUBLIC_KEY: "cRAUomrpol8KxU-Ip",   
+  EMAILJS_SERVICE_ID: "service_fxegm9i",  
+  EMAILJS_TEMPLATE_ID: "template_fh6h41c",  
 
-  /* Lien de l'enregistrement du webinaire de M. Elmi (Réalisations).
-     Tant qu'il est vide, le bouton affiche « Enregistrement bientôt disponible ». */
+  /* Lien de l'enregistrement du webinaire de M. Elmi (Réalisations).*/
+    
   WEBINAR_REPLAY_URL: "https://drive.google.com/file/d/1Cm633IdOa63PW0LXHLGlBMqfm8WDuFgE/view?usp=sharing",
 
   /* Réseaux sociaux (laisser vide = lien de recherche « EvalWeb Solutions ») */
